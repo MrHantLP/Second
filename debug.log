@@ -1,0 +1,12 @@
+{"level":"info","message":"Got request GET /","timestamp":"2015-10-04T17:25:04.726Z"}
+{"level":"error","message":"Unknown URLL","timestamp":"2015-10-04T17:25:04.730Z"}
+{"level":"info","message":"Got request GET /echo?message=Hello","timestamp":"2015-10-04T17:25:09.296Z"}
+{"level":"debug","message":"Echo: Hello","timestamp":"2015-10-04T17:25:09.296Z"}
+{"level":"info","message":"Got request GET /echo?message=Hello","timestamp":"2015-10-04T17:25:11.238Z"}
+{"level":"debug","message":"Echo: Hello","timestamp":"2015-10-04T17:25:11.238Z"}
+{"level":"info","message":"Got request GET /echo?message=HelloWWWWW","timestamp":"2015-10-04T17:25:19.115Z"}
+{"level":"debug","message":"Echo: HelloWWWWW","timestamp":"2015-10-04T17:25:19.115Z"}
+{"level":"info","message":"Got request GET /echo?message=HelloWWWWW","timestamp":"2015-10-04T17:29:24.936Z"}
+{"level":"debug","message":"Echo: HelloWWWWW","timestamp":"2015-10-04T17:29:24.937Z"}
+{"level":"info","message":"Got request GET /echo?message=HelloWWWWW","timestamp":"2015-10-04T17:30:07.006Z"}
+{"level":"debug","message":"Echo: HelloWWWWW","timestamp":"2015-10-04T17:30:07.006Z"}
